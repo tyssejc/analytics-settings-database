@@ -42,7 +42,7 @@
       "mode":"NULLABLE"
    },
    {
-      "type":"BOOL",
+      "type":"BOOLEAN",
       "name":"ads_personalization_enabled",
       "mode":"NULLABLE"
    },
@@ -57,12 +57,12 @@
       "mode":"NULLABLE"
    },
    {
-      "type":"BOOL",
+      "type":"BOOLEAN",
       "name":"cost_data_sharing_enabled",
       "mode":"NULLABLE"
    },
    {
-      "type":"BOOL",
+      "type":"BOOLEAN",
       "name":"campaign_data_sharing_enabled",
       "mode":"NULLABLE"
    }
