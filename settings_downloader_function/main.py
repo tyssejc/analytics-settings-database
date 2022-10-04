@@ -372,7 +372,7 @@ def list_ga4_entities(admin_api):
         }
         if data_stream.web_stream_data != None:
           data_stream_dict['web_stream_data'] = {
-            'measurment_id': data_stream.web_stream_data.measurement_id,
+            'measurement_id': data_stream.web_stream_data.measurement_id,
             'firebase_app_id': data_stream.web_stream_data.firebase_app_id,
             'default_uri': data_stream.web_stream_data.default_uri
           }
