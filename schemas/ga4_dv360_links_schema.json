@@ -20,7 +20,7 @@
       "mode":"NULLABLE"
    },
    {
-      "type":"STRING",
+      "type":"INTEGER",
       "name":"advertiser_id",
       "mode":"NULLABLE"
    },
